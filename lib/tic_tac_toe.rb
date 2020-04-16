@@ -119,3 +119,5 @@ class TicTacToe
   end
 
 end
+
+TicTacToe
