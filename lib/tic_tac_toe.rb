@@ -120,6 +120,6 @@ class TicTacToe
 
 end
 
-TicTacToe.play 
+TicTacToe
 
  
